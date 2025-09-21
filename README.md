@@ -17,9 +17,13 @@ A clean and responsive **landing page** for a product or service featuring a **h
 
 simple-landing-page/
 │
+
 ├── index.html # Main landing page
+
 ├── style.css # CSS styling
+
 ├── assets/ # Images, icons, and other media
+
 └── README.md # Project description
 ---
 
