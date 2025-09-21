@@ -31,7 +31,6 @@ simple-landing-page/
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/YOUR_USERNAME/simple-landing-page.git
 Open index.html in your browser.
 
@@ -47,3 +46,8 @@ You can preview the page locally by opening index.html in any browser, or deploy
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+Project Preview
+Click the image below to view the project on Twitter:
+
+Project Preview ---> (https://x.com/dev_samreen/status/1969625853580472465)
