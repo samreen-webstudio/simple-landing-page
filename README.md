@@ -27,12 +27,6 @@ simple-landing-page/
 └── README.md # Project description
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/simple-landing-page.git
-Open index.html in your browser.
 
 ✏️ Customization
 Edit index.html to change headings, text, and buttons.
